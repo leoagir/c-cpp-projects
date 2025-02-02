@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, MinGW in C++!" << std::endl;
+    std::cout << "Hello World in C++!" << std::endl;
     return 0;
 }
 
